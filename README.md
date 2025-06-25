@@ -51,6 +51,12 @@ To create a full-stack web application that supports:
 
 ---
 
+## 📸 Screenshot
+### Before Login/Register
+![image](https://github.com/user-attachments/assets/d0133774-7fbf-42d4-8508-56bb453dae80)
+### After Login/Register
+![image](https://github.com/user-attachments/assets/e88884a0-f061-4012-ad7a-49da47795b27)
+
 ## 📦 npm Packages Used
 
 ```bash
@@ -68,9 +74,4 @@ lottie-react
 react-slick
 slick-carousel
 
-## 📸 Screenshot
-### Before Login/Register
-![image](https://github.com/user-attachments/assets/d0133774-7fbf-42d4-8508-56bb453dae80)
-### After Login/Register
-![image](https://github.com/user-attachments/assets/e88884a0-f061-4012-ad7a-49da47795b27)
 
