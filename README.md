@@ -1,5 +1,16 @@
 # 🎓 Academix-Hub — A Full-featured Course Management System
 
+## 📸 Screenshots
+
+<div align="center">
+  <h4>Before Login/Register</h4>
+  <img src="https://github.com/user-attachments/assets/d0133774-7fbf-42d4-8508-56bb453dae80" alt="Before Login" width="45%" />
+
+  <h4>After Login/Register</h4>
+  <img src="https://github.com/user-attachments/assets/e88884a0-f061-4012-ad7a-49da47795b27" alt="After Login" width="45%" />
+</div>
+
+
 Academix-Hub is a modern and dynamic course management platform where students can browse, enroll in, and manage online courses. Instructors can manage their own course content through a secure and role-based dashboard. The project emphasizes secure authentication, clean UI, smooth animations, and real-time interactivity.
 
 🔗 **Live Site:** [https://academix-hub.netlify.app](https://academix-hub.netlify.app)
@@ -50,12 +61,6 @@ To create a full-stack web application that supports:
 - CORS, Dotenv
 
 ---
-
-## 📸 Screenshot
-### Before Login/Register
-![image](https://github.com/user-attachments/assets/d0133774-7fbf-42d4-8508-56bb453dae80)
-### After Login/Register
-![image](https://github.com/user-attachments/assets/e88884a0-f061-4012-ad7a-49da47795b27)
 
 ## 📦 npm Packages Used
 
